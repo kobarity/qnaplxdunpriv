@@ -1,7 +1,7 @@
 qnaplxdunpriv
 =============
 
-[qnaplxdunpriv][] changes ACLs of some [QNAP][] NAS's Container Station files to enable running unprivileged LXD containers.
+If __Advanced Folder Permissions__ is enabled in [QNAP][] NAS, unprivileged LXD containers won't start. [qnaplxdunpriv][] changes ACLs of some Container Station files to enable running unprivileged LXD containers.
 
 Please make sure to backup your NAS before using this program, and use this program at your own risk.
 
