@@ -20,7 +20,7 @@ where the last argument indicates the UID you are going to use for the unprivile
 
 To undo the changes, specify `unset` instead of `set`.
 
-Usage of this program is show below:
+Usage of this program is shown below:
 
 ```text
 usage: qnaplxdunpriv.py [-h] [--dry-run] [--station STATION]
